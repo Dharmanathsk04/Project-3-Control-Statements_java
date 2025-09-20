@@ -7,7 +7,7 @@ public class OddEven {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
-        // Control statement
+     
         if (num % 2 == 0) {
             System.out.println(num + " is Even.");
         } else {
@@ -17,3 +17,4 @@ public class OddEven {
         sc.close();
     }
 }
+
